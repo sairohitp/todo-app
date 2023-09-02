@@ -2,8 +2,6 @@
 
 This is a basic to-do list web application built with HTML, CSS, and JavaScript.
 
-![Screenshot](screenshot.png)
-
 ### Features
 
 - Add tasks to your to-do list.
